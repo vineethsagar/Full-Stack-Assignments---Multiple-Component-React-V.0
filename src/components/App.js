@@ -6,7 +6,8 @@ class App extends Component {
 
         return(
             <>
-               
+                <h1 className="project-name">BALB</h1>
+                <p calssName="project-description"> Balb is a twitter clone </p>
             </>
         )
     }
